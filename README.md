@@ -10,7 +10,6 @@ Sou apaixonado por desenvolver sistemas escaláveis e bem estruturados. Aqui voc
 - **Ferramentas:** Docker, Nginx, Git
 
 ### Projetos de Destaque
-- [API de Locação de Veículos](https://github.com/paulokalleby/api-locacao-veiculos)
 - [API de Vendas](https://github.com/paulokalleby/api-vendas)
 - [Laravue FullStack](https://github.com/paulokalleby/laravue)
 
