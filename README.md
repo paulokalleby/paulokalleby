@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou Paulo Kalleby 👋
+## Desenvolvedor Backend | PHP | Laravel | APIs RESTful
 
-<!--
-**paulokalleby/paulokalleby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por desenvolver sistemas escaláveis e bem estruturados. Aqui você encontrará projetos que refletem minha experiência e interesse em tecnologia.
 
-Here are some ideas to get you started:
+### Tecnologias e Ferramentas
+- **Linguagens:** PHP, JavaScript
+- **Frameworks:** Laravel, Vue.js
+- **Banco de Dados:** PostgreSQL, MySQL
+- **Ferramentas:** Docker, Nginx, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos de Destaque
+- [API de Locação de Veículos](https://github.com/paulokalleby/api-locacao-veiculos)
+- [API de Vendas](https://github.com/paulokalleby/api-vendas)
+- [Laravue FullStack](https://github.com/paulokalleby/laravue)
+
+### Entre em Contato
+- [LinkedIn](https://www.linkedin.com/in/paulokalleby)
+- [Email](mailto:paulo.devweb@gmail.com)
