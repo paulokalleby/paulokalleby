@@ -1,5 +1,5 @@
 # Olá, sou Paulo Kalleby 👋
-## Desenvolvedor Backend | PHP | Laravel | APIs RESTful
+## Desenvolvedor Web
 
 Sou apaixonado por desenvolver sistemas escaláveis e bem estruturados. Aqui você encontrará projetos que refletem minha experiência e interesse em tecnologia.
 
