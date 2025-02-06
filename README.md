@@ -16,8 +16,8 @@ Desenvolvedor web apaixonado por criar soluções eficientes e escaláveis. Semp
 - Comunicação via APIs REST.
 
 🔹 Padrões de Projeto
-Repository Pattern: Para desacoplar lógica de persistência.
-Service Layer: Organização da lógica de negócios.
+- Repository Pattern: Para desacoplar lógica de persistência.
+- Service Layer: Organização da lógica de negócios.
 
 ### 💡 Projetos de Destaque
 - [Filafood (Gestão de Haburguerias)](https://github.com/paulokalleby/filafood)
