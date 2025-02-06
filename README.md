@@ -1,16 +1,15 @@
 # Olá, sou Paulo Kalleby 👋
-## Desenvolvedor Web
 
-### 🚀 Sobre Mim
+## 🚀 Sobre Mim
 Desenvolvedor web apaixonado por criar soluções eficientes e escaláveis. Sempre em busca de boas práticas, padrões de projeto e arquitetura bem definida. Aqui você encontrará projetos que refletem minha experiência e interesse em tecnologia.
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** PHP, JavaScript
 - **Frameworks:** Laravel, Vue.js
 - **Banco de Dados:** PostgreSQL, MySQL, Oracle
 - **Ferramentas:** Docker, Nginx, Git
 
-### 🏗 Arquitetura e Boas Práticas
+## 🏗 Arquitetura e Boas Práticas
 🔹 Microserviços
 - Aplicações desacopladas para escalabilidade e manutenção facilitada.
 - Comunicação via APIs REST.
@@ -23,11 +22,11 @@ Desenvolvedor web apaixonado por criar soluções eficientes e escaláveis. Semp
 - SOLID: Aplicação de princípios para um código mais manutenível.
 - PSR Standards: Seguindo as boas práticas da comunidade PHP.
 
-### 💡 Projetos de Destaque
+## 💡 Projetos de Destaque
 - [Filafood (Gestão de Haburguerias)](https://github.com/paulokalleby/filafood)
 - [API de Vendas](https://github.com/paulokalleby/api-vendas)
 - [Laravue FullStack](https://github.com/paulokalleby/laravue)
 
-### ✉️Entre em Contato
+## ✉️Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/paulokalleby)
 - [Email](mailto:paulo.devweb@gmail.com)
