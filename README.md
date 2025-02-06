@@ -19,6 +19,10 @@ Desenvolvedor web apaixonado por criar soluções eficientes e escaláveis. Semp
 - Repository Pattern: Para desacoplar lógica de persistência.
 - Service Layer: Organização da lógica de negócios.
 
+🔹 Código Limpo
+- SOLID: Aplicação de princípios para um código mais manutenível.
+- PSR Standards: Seguindo as boas práticas da comunidade PHP.
+
 ### 💡 Projetos de Destaque
 - [Filafood (Gestão de Haburguerias)](https://github.com/paulokalleby/filafood)
 - [API de Vendas](https://github.com/paulokalleby/api-vendas)
