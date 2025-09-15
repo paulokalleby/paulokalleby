@@ -30,7 +30,10 @@ Aqui você encontrará projetos que refletem minha experiência prática e inter
 
 ## 💡 Projetos de Destaque
 - [Intranet Atual Cargas — Integração entre sistemas de terceiros e áreas do negócio](https://intranet.atualcargastech.com.br)  
-- [Filafood — Gestão de Hamburguerias](https://github.com/paulokalleby/filafood)  
+- Filafood — Gestão de Hamburguerias:
+  [Frontend Estabelecimento](https://filafood.com.br) ,
+  [Frontend Administração dos Tenants](https://admin.filafood.com.br) ,
+  [Backend](https://api.filafood.com.br/docs/api) 
 - [API de Vendas](https://github.com/paulokalleby/api-vendas)  
 - [Laravue — FullStack Laravel + Vue.js](https://github.com/paulokalleby/laravue)  
 - [PManager — Gerenciador de Projetos](https://github.com/paulokalleby/pmanager)
