@@ -1,8 +1,5 @@
 # 👋 Olá, sou Paulo Kalleby
 
-[![GitHub followers](https://img.shields.io/github/followers/paulokalleby?label=Seguidores&style=social)](https://github.com/paulokalleby)
-![Visualizações de Perfil](https://komarev.com/ghpvc/?username=paulokalleby&color=blue)
-
 Desenvolvedor Web focado em criar soluções escaláveis, bem estruturadas e com arquitetura limpa.
 Trabalho diariamente com desenvolvimento de APIs, sistemas SaaS, integrações com terceiros e aplicações full-stack.
 
