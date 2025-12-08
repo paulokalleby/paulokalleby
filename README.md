@@ -8,8 +8,8 @@ Sou desenvolvedor web apaixonado por criar soluções eficientes, escaláveis e 
 Aqui você encontrará projetos que refletem minha experiência prática e interesse contínuo por tecnologia.
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** PHP, Java, JavaScript  
-- **Frameworks:** Laravel, Spring Boot, Vue.js  
+- **Linguagens:** PHP, JavaScript  
+- **Frameworks:** Laravel, Vue.js  
 - **Banco de Dados:** PostgreSQL, MySQL, Oracle  
 - **Outras ferramentas:** Docker, Nginx, Git
 
@@ -34,16 +34,10 @@ Aqui você encontrará projetos que refletem minha experiência prática e inter
   [Frontend Estabelecimento](https://filafood.com.br) ,
   [Frontend Administração dos Tenants](https://admin.filafood.com.br) ,
   [Backend](https://api.filafood.com.br/docs/api) 
-- [API de Vendas](https://github.com/paulokalleby/api-vendas)  
 - [Laravue — FullStack Laravel + Vue.js](https://github.com/paulokalleby/laravue)  
-- [PManager — Gerenciador de Projetos](https://github.com/paulokalleby/pmanager)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulokalleby&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulokalleby&layout=compact&theme=radical" />
-</div>
+- Gestão de Acesso com ACL : FullStack Laravel + Vue.js :
+  [Frontend PWA/SPA – Vue 3 + Vuetify](https://github.com/paulokalleby/vue-pwa-with-acl) ,
+  [Laravel API com ACL](https://github.com/paulokalleby/laravel-api-with-acl) ,
 
 ## ✉️ Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/paulokalleby)  
