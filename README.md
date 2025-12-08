@@ -50,8 +50,8 @@ Atualmente, tenho como objetivo evoluir como Backend Developer, mergulhando em J
 
 ## 💡 Projetos de Destaque
 ### Nexus — Integração entre sistemas:
-Solução para integração entre sistemas internos e serviços externos, com orquestração de dados e rotinas automatizadas.
-- [Projeto](https://nexus.atualcargastech.com.br)
+Solução para integração entre sistemas internos e serviços externos, com orquestração de dados e rotinas automatizadas:
+- [https://nexus.atualcargastech.com.br](https://nexus.atualcargastech.com.br)
 
 ### Filafood — Sistema de Gestão para Hamburguerias (SaaS Multitenant):
  - Backend: Laravel 11 + Redis + PostgreSQL: [Projeto](https://github.com/paulokalleby/filafood-api)
