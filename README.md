@@ -29,12 +29,12 @@ Aqui você encontrará projetos que refletem minha experiência prática e inter
 - **PSR Standards**: Aderência às boas práticas da comunidade PHP
 
 ## 💡 Projetos de Destaque
-- [Intranet Atual Cargas — Integração entre sistemas de terceiros e áreas do negócio](https://intranet.atualcargastech.com.br)  
+- Integração entre sistemas de terceiros e áreas do negócio:  [Nexus](https://nexus.atualcargastech.com.br)  
 - Filafood — Gestão de Hamburguerias:
   [Frontend Estabelecimento](https://filafood.com.br) ,
   [Frontend Administração dos Tenants](https://admin.filafood.com.br) ,
   [Backend](https://api.filafood.com.br/docs/api) 
-- [Laravue — FullStack Laravel + Vue.js](https://github.com/paulokalleby/laravue)  
+- FullStack Laravel + Vue.js: [Laravue](https://github.com/paulokalleby/laravue)  
 - Gestão de Acesso com ACL : FullStack Laravel + Vue.js :
   [Frontend PWA/SPA – Vue 3 + Vuetify](https://github.com/paulokalleby/vue-pwa-with-acl) ,
   [Laravel API com ACL](https://github.com/paulokalleby/laravel-api-with-acl) ,
