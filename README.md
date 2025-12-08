@@ -46,22 +46,23 @@ Atualmente, tenho como objetivo evoluir como Backend Developer, mergulhando em J
 - PSR Standards: aderência às boas práticas da comunidade PHP
 
 ## 💡 Projetos de Destaque
-### Nexus — Integração entre sistemas:
+
+Nexus — Integração entre sistemas:
 Solução para integração entre sistemas internos e serviços externos, com orquestração de dados e rotinas automatizadas:
 - [https://nexus.atualcargastech.com.br](https://nexus.atualcargastech.com.br)
 
-### Filafood — Sistema de Gestão para Hamburguerias (SaaS Multitenant):
- - Backend: Laravel 11 + Redis + PostgreSQL: [Projeto](https://github.com/paulokalleby/filafood-api)
- - Painel Administrativo: Vue 3 + Vuetify: [Projeto](https://github.com/paulokalleby/filafood-admin)
- - Aplicação Estabelecimento: Vue 3 PWA: [Projeto](https://github.com/paulokalleby/filafood-web)
+Filafood — Sistema de Gestão para Hamburguerias (SaaS Multitenant):
+ - [Backend: Laravel 11 + Redis + PostgreSQL](https://github.com/paulokalleby/filafood-api)
+ - [Painel Administrativo: Vue 3 + Vuetify](https://github.com/paulokalleby/filafood-admin)
+ - [Aplicação Estabelecimento: Vue 3 PWA](https://github.com/paulokalleby/filafood-web)
 
-### Laravue: 
+Laravue: 
 Template completo com arquitetura desacoplada.
- - FullStack Laravel + Vue.js: [Projeto](https://github.com/paulokalleby/laravue)
+ - [FullStack Laravel + Vue.js](https://github.com/paulokalleby/laravue)
    
-### Sistema de Gestão de Acesso com ACL (FullStack):
- - API Laravel com ACL: [Projeto](https://github.com/paulokalleby/laravel-api-with-acl)
- - Frontend Vue 3 + Vuetify (PWA): [Projeto](https://github.com/paulokalleby/vue-pwa-with-acl)
+Sistema de Gestão de Acesso com ACL (FullStack):
+ - [API Laravel com ACL](https://github.com/paulokalleby/laravel-api-with-acl)
+ - [Frontend Vue 3 + Vuetify (PWA)](https://github.com/paulokalleby/vue-pwa-with-acl)
 
 ## 📚 Atualmente Estudando
 - Java para Backend (Spring Boot)
