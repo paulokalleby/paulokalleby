@@ -30,7 +30,7 @@ Aqui você encontrará projetos que refletem minha experiência prática e inter
 
 ## 💡 Projetos de Destaque
 - Integração entre sistemas de terceiros e áreas do negócio:  [Nexus](https://nexus.atualcargastech.com.br)  
-- Filafood — Gestão de Hamburguerias:
+- Filafood - Gestão de Hamburguerias:
   [Frontend Estabelecimento](https://filafood.com.br) ,
   [Frontend Administração dos Tenants](https://admin.filafood.com.br) ,
   [Backend](https://api.filafood.com.br/docs/api) 
