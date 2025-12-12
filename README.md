@@ -60,7 +60,7 @@ Template completo com arquitetura desacoplada.
  - [FullStack Laravel + Vue.js](https://github.com/paulokalleby/laravue)
    
 Sistema de Gestão de Acesso com RBAC (FullStack):
- - [API Laravel com ACL](https://github.com/paulokalleby/laravel-api-with-rbac)
+ - [API Laravel com RBAC](https://github.com/paulokalleby/laravel-api-with-rbac)
  - [Frontend Vue 3 + Vuetify (PWA)](https://github.com/paulokalleby/vue-pwa-with-rbac)
 
 ## 📚 Atualmente Estudando
