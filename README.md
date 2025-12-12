@@ -59,9 +59,9 @@ Laravue:
 Template completo com arquitetura desacoplada.
  - [FullStack Laravel + Vue.js](https://github.com/paulokalleby/laravue)
    
-Sistema de Gestão de Acesso com ACL (FullStack):
- - [API Laravel com ACL](https://github.com/paulokalleby/laravel-api-with-acl)
- - [Frontend Vue 3 + Vuetify (PWA)](https://github.com/paulokalleby/vue-pwa-with-acl)
+Sistema de Gestão de Acesso com RBAC (FullStack):
+ - [API Laravel com ACL](https://github.com/paulokalleby/laravel-api-with-rbac)
+ - [Frontend Vue 3 + Vuetify (PWA)](https://github.com/paulokalleby/vue-pwa-with-rbac)
 
 ## 📚 Atualmente Estudando
 - Java para Backend (Spring Boot)
